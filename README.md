@@ -4,6 +4,10 @@ This is a **DSA-based project** that implements the classic **Connect 4** game u
 
 ---
 
+![game_poster 1](https://github.com/user-attachments/assets/ce5fbe2b-4ef1-4943-9a99-da260cf3a1a3)
+
+---
+
 ## 📌 Project Info
 
 - **Course**: Data Structures and Algorithms  
