@@ -9,9 +9,10 @@ This is a **DSA-based project** that implements the classic **Connect 4** game u
 - **Course**: Data Structures and Algorithms  
 - **Topic**: Game Tree and Minimax Algorithm  
 - **Team Members**:  
-  - 20BCE189  
-  - 20BCE195  
-  - 20BCE211  
+  - 202404055  
+  - 202404019 
+  - 202401491
+  - 202401495 
 
 ---
 
